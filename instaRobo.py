@@ -20,7 +20,7 @@ class Roboinsta:
 def awwu(session,profileBy_session):
         mutual_following = session.pick_mutual_following(username=profileBy_session, live_match=True, store_locally=True)
         return mutual_following
-
+#Accept all follow request
 def accept_follow_requests(session):
     session.accept_follow_requests(amount=100, sleep_delay=1)
 
@@ -37,13 +37,14 @@ def options():
         "\n5) Search"
         "\n6) Get profile pic URL"
         "\n7)get saved post"
-        "\n8) Exit"
-        )
+        "\n8) Exit")
+        
     print(k)
     k=input()
     return k
+
+
 def main():
-    
     userName=input("Enter username/Email/Phoneno:")
     passWord=getpass.getpass(prompt='Password:',stream=None)
     object1=Roboinsta(userName,passWord)
