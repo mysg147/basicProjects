@@ -21,4 +21,4 @@ pip install instaloader
 pip install PyPDF2
 ```
 
-##some new mini projects are added
+## some new mini projects are added
