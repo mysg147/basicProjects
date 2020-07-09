@@ -14,6 +14,7 @@ They are actually some python scripts and can be understand by anyone who is beg
 pip install instapy
 pip install instaloader
 pip install PyPDF2
+pip install pywhatkit
 ```
 
 ## more to come
