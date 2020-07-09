@@ -7,6 +7,8 @@ They are actually some python scripts and can be understand by anyone who is beg
 2. [mergePDF.py](https://github.com/mysg147/basicProjects/blob/master/mergePDF.py) - can merge your pdf files  
 3. [normalScraping.py](https://github.com/mysg147/basicProjects/blob/master/normalScraping.py) - A simple web scraping script to get the price of iPhone from flipkart.
 4. [sendwhatsapp.py](https://github.com/mysg147/basicProjects/blob/master/sendwhatsapp.py) - send whatsapp message to someone at particular time.(should connected to whatsappweb) 
+5. [acsessGmail](https://github.com/mysg147/basicProjects/tree/master/acsessGmail) - to use your gmail by python on terminal or on cmd.it includes download, search sending message etc.
+
 ## Prerequisite
 ```bash
 pip install instapy
@@ -14,4 +16,5 @@ pip install instaloader
 pip install PyPDF2
 ```
 
-## some new mini projects are added
+## more to come
+
