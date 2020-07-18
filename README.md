@@ -17,5 +17,7 @@ pip install PyPDF2
 pip install pywhatkit
 ```
 
-## more to come
+## New arrival
+ [imagetotext](https://github.com/mysg147/basicProjects/blob/master/imagetotext.py) and [passgenerator](https://github.com/mysg147/basicProjects/blob/master/passgenerator.py) added
+
 
